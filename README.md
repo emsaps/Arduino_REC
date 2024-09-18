@@ -2,6 +2,6 @@
 A simulation of a Renewable Energy Community (REC) made with Arduino.
 ***
 
-### WARNING: we are not programmers please be kind :'(
+### WARNING: we are not programmers please be kind :')
 
-Soon we will upload the .dxf file of the laser-cut wood plastic
+The .dxf files of the laser-cut wood plastic are the work of Guido Barbieri
