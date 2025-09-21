@@ -1,0 +1,45 @@
+# Arduino
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+*.dmp
+*.lst
+*.obj
+*.o
+*.a
+*.srec
+*.dep
+*.d
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+*.tmp
+*.DS_Store
+*.vscode/
+__pycache__/
+*.code-workspace
+
+# Build folders
+build/
+dist/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Sketchbook backup
+*.ino.*
+
+# CAD/2D backup and temp
+*.bak
+*.tmp
+~$*
+
+# VSCode settings
+.vscode/
